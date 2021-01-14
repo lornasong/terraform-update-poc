@@ -1,4 +1,4 @@
-# terraform-update-poc
+# terraform-update-research
 Research on the flow when updating a terraform module source, terraform variables
 
 The first module creates the following local-file resources:
